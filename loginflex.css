@@ -1,0 +1,12 @@
+p
+{
+    color: slateblue;
+}
+h1 
+{
+    color: lightgreen
+}
+.login {
+    display: flex;
+    justify-content: space-evenly;
+}
